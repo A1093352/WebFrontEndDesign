@@ -151,7 +151,6 @@ table {
     padding-top: 24px;
     padding-bottom: 8px;
     display:flex;
-    justify-content: center;
     align-items:center;
     border-bottom: 1px solid #FFF;
 }
