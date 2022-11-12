@@ -42,12 +42,6 @@ table {
 	border-spacing: 0;
 }
 
-/* *, *:before, *:after{box-sizing: border-box;}  */
-
-/* *{
-    border: 1px solid #000;
-} */
-
 .container{
     display: flex;
     flex-direction: column;
@@ -149,15 +143,14 @@ table {
     padding-top: 40px;
     padding-bottom: 40px;
     display:flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction:column;
+    align-items:center;
  }
 
 .titleBox2{
     padding-top: 24px;
     padding-bottom: 8px;
     display:flex;
-    align-items: center;
     justify-content: center;
     border-bottom: 1px solid #FFF;
 }
